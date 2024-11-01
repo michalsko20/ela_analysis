@@ -17,9 +17,9 @@ def filter_columns_in_csv(input_file, labels_set, output_file):
     filtered_df.to_excel(output_file, index=False)  # Zapisujemy przefiltrowany plik do nowego pliku Excel
 
 # Ścieżki do plików
-first_file_path = r"D:\studia\analiza_danych\ela_analysis\data\graduates-major-dictionary.xlsx"
-second_file_path = r"D:\studia\analiza_danych\ela_analysis\graduates-major-data.csv"
-output_file_path = r"D:\studia\analiza_danych\ela_analysis\graduates-major-data_filtered.xlsx"
+first_file_path = r"D:\studia\analiza\ela_analysis\data\students-major-dictionary.xlsx"
+second_file_path = r"D:\studia\analiza\ela_analysis\students-major-data.csv"
+output_file_path = r"D:\studia\analiza\ela_analysis\data\students-major-data_filtered.xlsx"
 
 # Proces
 labels_set = get_labels_from_first_file(first_file_path)
