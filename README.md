@@ -64,7 +64,7 @@ absolwentów na podstawie wybranej dziedziny kształcenia studiów (domyślnie i
 
     **P_POZIOM** - Stopień ukończonych studiów
 
-    **P_WOJ** - Województwo lokalizacji jednostki dydaktycznej = P_ME_ZAR i P_WWB
+    **P_WWZ** - Względny Wskaźnik Zarobków absolwentów po uzyskaniu dyplomu
 
     **P_ME_ZAR** - Mediana średnich miesięcznych wynagrodzeń absolwentów ze wszystkich źródeł po uzyskaniu dyplomu
 
@@ -72,7 +72,7 @@ absolwentów na podstawie wybranej dziedziny kształcenia studiów (domyślnie i
 
     **P_FORMA** - Forma ukończonych studiów
 
-    **P_WOJ** - Województwo lokalizacji jednostki dydaktycznej = P_ME_ZAR i P_WWB
+    **P_WWZ** - Względny Wskaźnik Zarobków absolwentów po uzyskaniu dyplomu
 
     **P_ME_ZAR** - Mediana średnich miesięcznych wynagrodzeń absolwentów ze wszystkich źródeł po uzyskaniu dyplomu
 
