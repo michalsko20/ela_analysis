@@ -1,3 +1,7 @@
 data
+<<<<<<< HEAD
 venv
 .ipynb*
+=======
+venv
+>>>>>>> 765db5c1ded5a849f78787c81c8e16d1adfd08a1
