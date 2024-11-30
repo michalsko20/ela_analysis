@@ -1,0 +1,46 @@
+{
+    "P_WOJ": {
+        "2.0": 0,
+        "4.0": 1,
+        "6.0": 2,
+        "8.0": 3,
+        "10.0": 4,
+        "12.0": 5,
+        "14.0": 6,
+        "16.0": 7,
+        "18.0": 8,
+        "20.0": 9,
+        "22.0": 10,
+        "24.0": 11,
+        "26.0": 12,
+        "28.0": 13,
+        "30.0": 14,
+        "32.0": 15,
+        "NaN": 16
+    },
+    "P_POZIOM": {
+        "1": 0,
+        "2": 1,
+        "JM": 2
+    },
+    "P_FORMA": {
+        "N": 0,
+        "S": 1
+    },
+    "Dziedzina": {
+        "Architektura": 0,
+        "Automatyka": 1,
+        "Ekonomia": 2,
+        "Informatyka": 3,
+        "Inne": 4,
+        "Inżynieria elektryczna": 5,
+        "Inżynieria lądowa": 6,
+        "Inżynieria mechaniczna": 7,
+        "Inżynieria środowiskowa": 8,
+        "Medycyna": 9,
+        "Nauki prawne": 10,
+        "Nauki społeczne": 11,
+        "Nauki ścisłe": 12,
+        "Zarządzanie": 13
+    }
+}
