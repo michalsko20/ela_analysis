@@ -1,0 +1,5 @@
+Test MAE: 0.1710
+Test MSE: 0.0539
+Test RMSE: 0.2321
+Test R-squared: 0.5337
+Test MAPE: 2588764274688.0000
