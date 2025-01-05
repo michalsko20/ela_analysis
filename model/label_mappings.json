@@ -16,7 +16,7 @@
         "28.0": 13,
         "30.0": 14,
         "32.0": 15,
-        "NaN": 16
+        "nan": 16
     },
     "P_POZIOM": {
         "1": 0,
@@ -30,17 +30,17 @@
     "Dziedzina": {
         "Architektura": 0,
         "Automatyka": 1,
-        "Ekonomia": 2,
-        "Informatyka": 3,
-        "Inne": 4,
-        "Inżynieria elektryczna": 5,
-        "Inżynieria lądowa": 6,
-        "Inżynieria mechaniczna": 7,
-        "Inżynieria środowiskowa": 8,
-        "Medycyna": 9,
-        "Nauki prawne": 10,
-        "Nauki społeczne": 11,
-        "Nauki ścisłe": 12,
+        "Chemia": 2,
+        "Ekonomia": 3,
+        "Informatyka": 4,
+        "Inne": 5,
+        "Inżynieria elektryczna": 6,
+        "Inżynieria lądowa": 7,
+        "Inżynieria mechaniczna": 8,
+        "Inżynieria środowiskowa": 9,
+        "Kierunek lekarski": 10,
+        "Nauki prawne": 11,
+        "Psychologia": 12,
         "Zarządzanie": 13
     }
 }
